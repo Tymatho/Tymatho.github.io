@@ -50,11 +50,11 @@
 
 > - ## **Informations personnelles** :
 
->>> + Adresse : 6 rue Caporal Laroix 
+>>> + Adresse : XXXXXXXXXX
 
->>> + Code Postal : 42150 La Ricamarie 
+>>> + Code Postal : XXXXXXXXXXXXX
 
->>> + Numéro de téléphone : 07 61 37 72 30
+>>> + Numéro de téléphone : XX XX XX XX XX
 
 >>> + Date de naissance : Né le 23/10/2003 
 
