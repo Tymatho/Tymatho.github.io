@@ -17,6 +17,10 @@ a{
   text-decoration: none;
   color: #000;
 }
+img{
+  width: 400px;
+  height: 400px;
+}
 
 /*HEADER & FOOTER*/
 header, footer{
@@ -259,9 +263,4 @@ section > div{
   .interet{
       flex: 0 1 25%;
   }
-}
-
-img {
-  width: 400px;
-  height: 400px;
 }
