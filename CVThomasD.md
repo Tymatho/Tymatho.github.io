@@ -56,6 +56,6 @@
 
 >>> + Numéro de téléphone : XX XX XX XX XX
 
->>> + Date de naissance : Né le 23/10/2003 
+>>> + Date de naissance : Né le XXXXXXXXX
 
->>> + Mail : Tymatho@bbox.fr
+>>> + Mail : XXXXXXXXXXXXX
